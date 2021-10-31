@@ -40,15 +40,15 @@ wordLength.addEventListener("click", () => {
 });
 
 //change to dark mode
-let darkMode = false;
+// let darkMode = false;
 
-toggleMode.addEventListener("click", () => {
-  if (darkMode = false) {
-    document.body.style.background = "white";
-   return darkMode = true;
+// toggleMode.addEventListener("click", () => {
+//   if (darkMode = false) {
+//     document.body.style.background = "white";
+//    return darkMode = true;
     
-  } else {
-    document.body.style.background = "black";
-  return  darkMode = false;
-  }
-});
+//   } else {
+//     document.body.style.background = "black";
+//   return  darkMode = false;
+//   }
+// });

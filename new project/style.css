@@ -1,0 +1,7 @@
+h1{
+    background: red;
+    color: #fff;
+}
+#toggleMode:checked{
+--primary:rgb(252, 39, 39);
+}
