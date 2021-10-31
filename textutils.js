@@ -11,8 +11,7 @@ let wordLength = document.querySelector("#wordLength");
 let toggleMode = document.querySelector("#toggleMode");
 // event listners
 upperBtn.addEventListener("click", () => {
-  textArea.style.textTransform = "uppercase";
-});
+  textArea.style.textTransform = "uppercase";  });
 lowerBtn.addEventListener("click", () => {
   textArea.style.textTransform = "lowercase";
 });
